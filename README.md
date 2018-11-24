@@ -8,7 +8,6 @@ This is a real game made by Ketchapp.
 iOS:https://www.google.ca/search?q=circlethedot&gws_rd=cr&dcr=0&ei=67hPWtCwBujgjwS3ibrwBw#
 android: https://www.google.ca/search?q=circlethedot&gws_rd=cr&dcr=0&ei=67hPWtCwBujgjwS3ibrwBw#
 
-If you copy you are liable to be sued. I rest my case
 
 NOTES:
 The game works with very minor bugs.
